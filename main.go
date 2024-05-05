@@ -7,9 +7,10 @@ import (
 func main() {
 	fmt.Println("\t开始练习")
 	a := 1
-	b := 5
-	dd := a + b
-	fmt.Println("最终结果为：", dd)
-	kk := "合并one分支"
+	b := 8
+	c := a + b
+	fmt.Println("最终结果为：", c)
+	fmt.Println("尝试合并")
+	kk := "合并two分支"
 	fmt.Println(kk)
 }
