@@ -11,4 +11,6 @@ func main() {
 	c := a + b
 	fmt.Println("最终结果为：", c)
 	fmt.Println("尝试合并")
+	kk := "合并two分支"
+	fmt.Println(kk)
 }
